@@ -1,3 +1,5 @@
 here is some text,
-this is the text to integrate the second new feature
+/Add some new text here/
+this is the text to integrate the second new feature /now add some new text here/
+/add some new text here, as well /
 Here is some more text

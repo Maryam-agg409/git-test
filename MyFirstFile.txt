@@ -1,4 +1,7 @@
+
 Start Text
+Line of text at start
+>>>>>>> newfeature
 here is some text,
 /Add some new text here/
 this is the text to integrate the second new feature /now add some new text here/
